@@ -1,215 +1,129 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rakibul%20Islam&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20IT%20Infrastructure%20Professional&descSize=16&descAlignY=60" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Linux+%26+Windows+Server+Administration;Enterprise+Infrastructure+%26+Virtualization;DevOps+%7C+Automation+%7C+CI%2FCD;AWS+%26+Microsoft+Azure+Cloud;Building+Reliable+IT+Infrastructure" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mdrakibulislam8179/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://permitdeny.com/">
-<img src="https://img.shields.io/badge/Website-Visit%20Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:rakib.office.pro@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Rakibul Islam**, an IT Infrastructure and System Administration professional with hands-on experience in enterprise IT environments.
-
-My technical interests include Linux and Windows Server administration, enterprise hardware, virtualization, networking, storage, and infrastructure troubleshooting.
-
-Currently, I am expanding my expertise in DevOps engineering, focusing on automation, containerization, CI/CD pipelines, cloud platforms, and Infrastructure as Code.
-
-- 💻 IT Infrastructure & System Administration
-- 🐧 Linux and Windows Server Administration
-- 🖥️ Enterprise Server, Storage & Virtualization
-- 🔐 Networking & Firewall Security
-- ☁️ AWS & Microsoft Azure Cloud Technologies
-- 🚀 DevOps Engineering & Infrastructure Automation
-- 🎯 Focus: Building scalable and reliable IT infrastructure
-
----
-
-## 🛠️ Technical Skills & Technologies
-
-### Operating Systems
-
-<p>
-<img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Rakibul%20Islam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Linux%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=60&descSize=18" alt="Header" />
 </p>
 
-### DevOps & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=RHCSA+%26+RHCE+(Ansible)+Certified;Linux+%7C+Automation+%7C+Networking;Building+reliable+and+secure+infrastructure" alt="Typing SVG" />
 </p>
 
-### Cloud Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdrakibulislam8179/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rakib.office.pro@gmail.com"><img src="https://img.shields.io/badge/Email-rakib.office.pro@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
 </p>
 
-### Infrastructure & Virtualization
+---
 
-<p>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/HPE-01A982?style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
+## 🚀 About Me
+
+I'm a **DevOps Engineer** with a strong foundation in **Linux administration, network and firewall security, and infrastructure automation**. I focus on keeping systems stable, secure and repeatable, and on replacing manual work with automation.
+
+- 🐧 Red Hat certified Linux administrator, automating with **Ansible**
+- 🛡️ Hands-on with **Fortinet firewalls** and network security
+- 🌐 Strong networking background across **Cisco** and **MikroTik**
+- 💾 Experience with storage (**TrueNAS**) and enterprise server hardware (**HPE**, **Dell**)
+- 🔄 Growing my skills in containers, CI/CD, IaC and cloud (see roadmap below)
+
+---
+
+## 🏅 Certifications & Training
+
+| Area | Certification / Training |
+|------|--------------------------|
+| 🐧 Linux & Automation | **RHCSA**, **RHCE (Ansible)** |
+| 🪟 Windows Server | **MCSA** |
+| 🛡️ Firewall & Security | **Fortinet NSE 1 – 4** |
+| 🌐 Networking (Cisco) | **CCNA** |
+| 🌐 Networking (MikroTik) | **MTCNA**, **MTCRE**, **MTCSE** |
+| 🌐 Networking | **OCNA** |
+| 💾 Storage | **TrueNAS** |
+| 🖥️ Server Hardware | **HPE**, **Dell** |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐧 Linux & Automation
+![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=plastic&logo=redhat&logoColor=white)
+![RHCE](https://img.shields.io/badge/RHCE-EE0000?style=plastic&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=plastic&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+### 🪟 Windows Server
+![Windows Server](https://img.shields.io/badge/MCSA-0078D4?style=plastic&logo=windows&logoColor=white)
+
+### 🛡️ Security & Firewall
+![Fortinet](https://img.shields.io/badge/Fortinet_NSE_1--4-EE3124?style=plastic&logo=fortinet&logoColor=white)
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=plastic&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=plastic&logo=mikrotik&logoColor=white)
+
+### 💾 Storage & Hardware
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=plastic&logo=truenas&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE-01A982?style=plastic&logo=hewlettpackardenterprise&logoColor=white)
+![Dell](https://img.shields.io/badge/Dell-007DB8?style=plastic&logo=dell&logoColor=white)
+
+---
+
+## 🌱 DevOps Learning Roadmap
+
+| Area | What I'm learning | Status |
+|------|-------------------|--------|
+| 🐳 Containers | Docker, image optimization, Docker Compose | 🔄 In progress |
+| ☸️ Orchestration | Kubernetes (CKA path), Helm | 🔄 In progress |
+| 🏗️ Infrastructure as Code | Terraform (modules, remote state) | 🔄 In progress |
+| 🔁 CI/CD | Jenkins, GitHub Actions, GitLab CI | 📅 Planned |
+| ☁️ Cloud | AWS (Solutions Architect path), Azure basics | 📅 Planned |
+| 🔄 GitOps | ArgoCD / Flux | 📅 Planned |
+| 📊 Observability | Prometheus, Grafana, Loki, ELK | 📅 Planned |
+| 🔐 DevSecOps | Trivy, SonarQube, HashiCorp Vault | 📅 Planned |
+| 🧑‍💻 Scripting | Bash, Python for automation | 🔄 In progress |
+| 📈 SRE Practices | SLI / SLO, incident response, postmortems | 📅 Planned |
+
+---
+
+## 🎯 Next Certification Goals
+
+- [ ] Certified Kubernetes Administrator (CKA)
+- [ ] HashiCorp Certified: Terraform Associate
+- [ ] AWS Certified Solutions Architect – Associate
+- [ ] AWS Certified DevOps Engineer – Professional
+
+---
+
+## 📌 Featured Projects
+
+> Replace these with your real repositories.
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Ansible Server Automation](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Playbooks and roles for provisioning, hardening and patching Linux servers | `Ansible` `RHEL` `Bash` |
+| [Linux Hardening Toolkit](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Scripts and checklists for securing RHEL / CentOS servers | `Linux` `Bash` `SELinux` |
+| [Network & Firewall Configs](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Sanitized sample configs and documentation for Fortinet and MikroTik | `Fortinet` `MikroTik` |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-### Networking & Security
+---
 
-<p>
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+## 🤝 Let's Connect
+
+Open to DevOps, Cloud and Infrastructure opportunities and collaboration.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdrakibulislam8179/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rakib.office.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### Storage & Backup
+<p align="center"><i>"Automate everything. Monitor everything. Break nothing in production."</i></p>
 
-- SAN / NAS / DAS / iSCSI
-- RAID Configuration & Management
-- TrueNAS & Enterprise Storage
-- Veeam Backup & Replication
-
----
-
-## 🏅 Certifications & Professional Training
-
-| Certification | Technology |
-|---|---|
-| RHCSA | Red Hat |
-| RHCE | Red Hat |
-| CCNA | Cisco |
-| MCSA | Microsoft |
-| NSE 1–4 | Fortinet |
-| MTCNA | MikroTik |
-| MTCRE | MikroTik |
-| MTCSE | MikroTik |
-
----
-
-## 🚀 DevOps Engineering Journey
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,ansible,terraform,kubernetes,aws,azure" />
-
-</div>
-
-Currently focusing on:
-
-- Linux Administration & Bash Scripting
-- Git & GitHub Version Control
-- Docker & Containerization
-- Jenkins & CI/CD Automation
-- Ansible Configuration Management
-- Terraform & Infrastructure as Code
-- Kubernetes & Container Orchestration
-- AWS & Microsoft Azure Cloud Infrastructure
-- Cloud Monitoring & Infrastructure Management
-
----
-
-## 🔥 Hands-on Projects
-
-| Project | Technologies |
-|---|---|
-| Linux Server Administration | RHEL, Linux |
-| Automated Apache Deployment | Bash, Apache |
-| Active Directory Infrastructure | Windows Server, DNS, GPO |
-| Containerization Lab | Docker |
-| Configuration Management | Ansible |
-| CI/CD Pipeline Implementation | GitHub, Jenkins |
-| Infrastructure as Code | Terraform |
-| Cloud Infrastructure Deployment | AWS, Azure |
-| Enterprise Backup & Storage | Veeam, TrueNAS |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Professional Objective
-
-To grow as a DevOps Engineer by combining my system administration and IT infrastructure experience with modern automation, cloud platforms, containerization, CI/CD, and Infrastructure as Code.
-
-Committed to continuous learning, practical implementation, and building secure, scalable, and reliable infrastructure.
-
----
-
-## 📫 Contact & Professional Links
-
-<div align="center">
-
-<a href="mailto:rakib.office.pro@gmail.com">
-<img src="https://img.shields.io/badge/Email-rakib.office.pro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+8801560024810">
-<img src="https://img.shields.io/badge/Phone-%2B880%201560024810-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mdrakibulislam8179/">
-<img src="https://img.shields.io/badge/LinkedIn-Rakibul%20Islam-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://permitdeny.com/">
-<img src="https://img.shields.io/badge/Portfolio-permitdeny.com-333333?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-
-<br/><br/>
-
-**BUILDING INFRASTRUCTURE | AUTOMATING OPERATIONS | ENGINEERING THE FUTURE**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+</p>
